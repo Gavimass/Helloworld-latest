@@ -6,12 +6,12 @@
 <title>Welcome to ABC BANK</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: red;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to ABC BANK</h1>
+<h1>Welcome to Gavis Helloworld web site</h1>
 <p>This is a sample Welcome to ABC BANK application for 2023 July Batch.</p>
 </body>
 </html>

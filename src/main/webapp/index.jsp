@@ -6,7 +6,7 @@
 <title>Welcome to Gavis Helloworld web site</title>
 <style>
   body {
-    background-color: white;
+    background-color: red;
   }
 </style>
 </head>
